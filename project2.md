@@ -12,8 +12,8 @@ Fork & Clone this repo.
 
 --------------------------------------------------------
 1. Discord app
-2. Music app (lastfm?) https://musictaste.space/ - As a member, I want to see what what type of music, artists, genres others are listening to 
-3. Event search 
+2. Music app (lastfm?) https://musictaste.space/ - As a user, I want to see what what type of music, artists, genres others are listening to. Compare music tastes with others. Calculate percentage? 
+3. Event search - As a user I want to se a map of my area with the different venues around and upcoming events.
 ---------------------------------------------------------
 
 - [ ] Make a PR when you're done!
