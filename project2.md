@@ -14,7 +14,7 @@ Fork & Clone this repo.
 1. Discord app
 2. Music app (lastfm?) https://musictaste.space/ - As a user, I want to see what what type of music, artists, genres others are listening to. Compare music tastes with others. Calculate percentage? 
 3. Event search - As a user I want to se a map of my area with the different venues around and upcoming events.
-4. Covid tracker
+4. Covid tracker - As a user I want to see a map of the world and sort/view countries coronavirus cases, recovered, deaths.
 ---------------------------------------------------------
 
 - [ ] Make a PR when you're done!
