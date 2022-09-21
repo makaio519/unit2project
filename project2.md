@@ -36,7 +36,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### Wireframes
-
+<img src="wireframe.png">
 ----------------------------------------------------------
 
 Make a PR when you're done!
